@@ -17,7 +17,7 @@ def dinner(meal_choice="salmon")
   puts "I love to eat #{meal_choice} for dinner!"
 end
 
-breakfast
+breakfast("Cereal")
 lunch
 dinner
 
